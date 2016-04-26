@@ -19,6 +19,6 @@
     "yargs": "^4.6.0"
   },
   "bin": {
-    "clean-node-installer": "bin/clean-npm-installer"
+    "clean-npm-installer": "bin/clean-npm-installer.js"
   }
 }
