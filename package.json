@@ -1,6 +1,6 @@
 {
   "name": "clean-npm-installer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easily copy and transform npm modules for deployment",
   "main": "lib/index.js",
   "scripts": {
