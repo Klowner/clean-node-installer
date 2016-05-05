@@ -1,6 +1,11 @@
 # clean-npm-installer
 Easily transform and pre-process npm modules for deployment scenarios
 
+1. Create a `cni.conf.js` file
+2. `npm install` all your required packages
+3. run `clean-npm-installer`
+4. enjoy! (hopefully)
+
 ## Example configurations
 
 #### Renaming
